@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/jcooklin/snap-plugin-collector-cpuid",
+	"GoVersion": "go1.5.2",
+	"Deps": [
+		{
+		{
+			"ImportPath": "github.com/intel-go/cpuid",
+			"Rev": "35375acdc703b42630f54cbbdbcd58d74e029ba7"
+		},
+		{
+			"ImportPath": "github.com/intelsdi-x/snap/control/plugin",
+			"Comment": "v0.9.0-beta-104-gc6e63f9",
+			"Rev": "c6e63f95ab91bb0b2b5c9749753b20992f29f913"
+		}
+	]
+}
